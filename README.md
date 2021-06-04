@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Dr. Lisa M. Stedman-Falls.
-- 👀 I’m interested in becoming a full-stack web developer and software engineer.
-- 🌱 I’m currently learning CSS and JavaScript.
+- 👀 I’m studying to become a full-stack web developer.
+- 🌱 I am currently enrolled in the Coding Dojo Bootcamp.
