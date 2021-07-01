@@ -11,7 +11,7 @@
     Bootstrap, jQuery
 
 > Developer Environments / Tools
-    node.js, Chrome console, CodePen, Replit, GitBash
+    node.js, Chrome console, cmd, GitBash
 
 > Version Control
     Git / GitHub
@@ -20,7 +20,7 @@
     DaVinci Resolve, Pro Tools
 
 > Web Development Solutions / Standards
-    WordPress, Drupal, WooCommerce, Elementor/Pro, LearnDash, Yoast SEO, Google Analytics, WCAG 2.0, DCMP 
+    WordPress, Drupal, WooCommerce, Elementor, LearnDash, Yoast SEO, Google Analytics, WCAG 2.0, DCMP 
 
 > Storage / Work Solutions
     Micorsoft 365, Google Workspace, MailChimp
