@@ -1,6 +1,8 @@
 - 👋 Hello, I’m Dr. Lisa M. Stedman-Falls.
-- 👀 I am studying to become a full-stack software developer.
-- 🌱 Currently, I am enrolled in the Coding Dojo Bootcamp.
+<p> For the past 10 years, I have led a successful career as a behavioral scientist, clinician, educator, organizational leader, and consultant.</p>
+<p> I have always been passionate about the use of technology, and I have recently decided to pursue that passion more fully. I am now transitioning from my career in behavioral science to a career in software engineering, and I am continuing to expand my programming repertoire through an intensive software development bootcamp. I look forward to exploring new opportunities within the technology sector, and continuing to learn and grow.
+</p>
+
 <pre>
 > Languages
     HTML, CSS, JavaScript
