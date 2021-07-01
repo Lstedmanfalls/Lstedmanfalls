@@ -19,7 +19,7 @@
 > Audio / Visual Tools
     DaVinci Resolve, Pro Tools
 
-> Web Development Solutions / Standards
+> Web Development Solutions
     WordPress, Drupal, WooCommerce, Elementor, LearnDash, Yoast SEO, Google Analytics, WCAG 2.0, DCMP 
 
 > Storage / Work Solutions
