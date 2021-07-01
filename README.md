@@ -3,6 +3,8 @@
 <p> I am now transitioning my career to software engineering, and I am continuing to expand my programming repertoire through an intensive software development bootcamp.</p> 
 <p> I look forward to exploring new opportunities within the technology sector, and continuing to learn and grow.</p>
 
+My LinkedIn: https://www.linkedin.com/in/lstedmanfalls/
+
 <pre>
 > Languages
     HTML, CSS, JavaScript
