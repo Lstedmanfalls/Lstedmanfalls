@@ -1,4 +1,4 @@
-<p>👋 Hello, I’m Dr. Lisa M. Stedman-Falls.</p>
+<span style="text-align:center">👋 Hello, I’m Dr. Lisa M. Stedman-Falls.</span>
 <p> For the past 10 years, I have led a successful career as a behavioral scientist, clinician, educator, organizational leader, and consultant.</p>
 <p> I am now transitioning my career to software engineering, and I am continuing to expand my programming repertoire through an intensive software development bootcamp.</p> 
 <p> I look forward to exploring new opportunities within the technology sector, and continuing to learn and grow.</p>
