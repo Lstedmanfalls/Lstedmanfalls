@@ -1,7 +1,6 @@
 - 👋 Hello, I’m Dr. Lisa M. Stedman-Falls.
 - 👀 I am studying to become a full-stack software developer.
 - 🌱 Currently, I am enrolled in the Coding Dojo Bootcamp.
--  I am proficient with:
 <pre>
         > Languages
             HTML, CSS, JavaScript
