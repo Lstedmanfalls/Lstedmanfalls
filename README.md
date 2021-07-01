@@ -19,8 +19,8 @@
 > Audio / Visual Tools
     DaVinci Resolve, Pro Tools
 
-> Web Development Solutions
-    WordPress, Drupal, WooCommerce, Elementor/Pro, LearnDash, Yoast SEO, Google Analytics
+> Web Development Solutions / Standards
+    WordPress, Drupal, WooCommerce, Elementor/Pro, LearnDash, Yoast SEO, Google Analytics, WCAG 2.0, DCMP 
 
 > Storage / Work Solutions
     Micorsoft 365, Google Workspace, MailChimp
