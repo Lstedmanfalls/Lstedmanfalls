@@ -7,7 +7,7 @@ My LinkedIn: https://www.linkedin.com/in/lstedmanfalls/
 
 <pre>
 > Languages
-    HTML, CSS, JavaScript
+    HTML, CSS, JavaScript, Python
 
 > Libraries / Frameworks
     Bootstrap, jQuery
@@ -22,8 +22,8 @@ My LinkedIn: https://www.linkedin.com/in/lstedmanfalls/
     DaVinci Resolve, Pro Tools
 
 > Web Development Solutions
-    WordPress, Drupal, WooCommerce, Elementor, LearnDash, Yoast SEO, Google Analytics, WCAG 2.0, DCMP 
+    WordPress, Drupal, WooCommerce, Elementor, LearnDash, Yoast SEO, Google Analytics, WCAG 2.0
 
-> Storage / Work Solutions
+> Storage / Workflow Solutions
     Micorsoft 365, Google Workspace, MailChimp
 </pre>
