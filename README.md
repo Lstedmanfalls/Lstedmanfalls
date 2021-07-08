@@ -11,12 +11,12 @@ My LinkedIn: https://www.linkedin.com/in/lstedmanfalls/
 
 > Libraries / Frameworks
     Bootstrap, jQuery
-
-> Developer Environments / Terminals
-    cmd, GitBash, node.js, venv
     
 > Web Development Solutions
     WordPress, Drupal, WooCommerce, Elementor, LearnDash, Yoast SEO, Google Analytics, WCAG 2.0
+
+> Developer Environments / Terminals
+    cmd, GitBash, node.js, venv
 
 > Storage / Workflow Solutions
     Micorsoft 365, Google Workspace, MailChimp
