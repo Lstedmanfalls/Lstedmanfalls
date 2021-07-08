@@ -14,16 +14,16 @@ My LinkedIn: https://www.linkedin.com/in/lstedmanfalls/
 
 > Developer Environments / Terminals
     cmd, GitBash, node.js, venv
+    
+> Web Development Solutions
+    WordPress, Drupal, WooCommerce, Elementor, LearnDash, Yoast SEO, Google Analytics, WCAG 2.0
+
+> Storage / Workflow Solutions
+    Micorsoft 365, Google Workspace, MailChimp
 
 > Version Control
     Git / GitHub
 
 > Audio / Visual Tools
     DaVinci Resolve, Pro Tools
-
-> Web Development Solutions
-    WordPress, Drupal, WooCommerce, Elementor, LearnDash, Yoast SEO, Google Analytics, WCAG 2.0
-
-> Storage / Workflow Solutions
-    Micorsoft 365, Google Workspace, MailChimp
 </pre>
