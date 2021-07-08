@@ -12,7 +12,7 @@ My LinkedIn: https://www.linkedin.com/in/lstedmanfalls/
 > Libraries / Frameworks
     Bootstrap, jQuery
 
-> Developer Environments / Tools
+> Developer Environments
     cmd, GitBash, node.js, venv
 
 > Version Control
