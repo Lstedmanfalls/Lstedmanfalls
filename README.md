@@ -13,7 +13,7 @@ My LinkedIn: https://www.linkedin.com/in/lstedmanfalls/
     Bootstrap, jQuery
 
 > Developer Environments / Tools
-    node.js, Chrome console, cmd, GitBash
+    cmd, GitBash, node.js, venv
 
 > Version Control
     Git / GitHub
