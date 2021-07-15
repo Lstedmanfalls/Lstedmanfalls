@@ -8,7 +8,7 @@ My LinkedIn: https://www.linkedin.com/in/lstedmanfalls/
 
 <pre>
 > Languages
-    HTML, CSS, JavaScript, Python
+    HTML, CSS, JavaScript, Python, SQL
 
 > Database Systems
     MySQL
