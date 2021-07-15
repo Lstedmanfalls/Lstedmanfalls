@@ -10,6 +10,9 @@ My LinkedIn: https://www.linkedin.com/in/lstedmanfalls/
 > Languages
     HTML, CSS, JavaScript, Python
 
+> Database Systems
+    MySQL
+
 > Libraries / Frameworks
     Bootstrap, jQuery
     
