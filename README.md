@@ -23,7 +23,7 @@ My LinkedIn: https://www.linkedin.com/in/lstedmanfalls/
     cmd, GitBash, node.js, venv
 
 > Storage / Workflow Solutions
-    Micorsoft 365, Google Workspace, MailChimp
+    MS 365, Google Workspace, MailChimp
 
 > Version Control
     Git / GitHub
