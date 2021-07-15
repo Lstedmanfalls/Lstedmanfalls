@@ -22,7 +22,7 @@ My LinkedIn: https://www.linkedin.com/in/lstedmanfalls/
 > Developer Environments / Terminals
     cmd, GitBash, node.js, venv
 
-> Storage / Workflow Solutions
+> Workflow Solutions
     MS 365, Google Workspace, MailChimp
 
 > Version Control
