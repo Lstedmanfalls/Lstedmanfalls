@@ -14,7 +14,7 @@ My LinkedIn: https://www.linkedin.com/in/lstedmanfalls/
     MySQL
 
 > Libraries / Frameworks
-    Bootstrap, jQuery, django
+    Bootstrap, jQuery, Django
     
 > Web Development Solutions
     WordPress, Drupal, WooCommerce, Elementor, LearnDash, Yoast SEO, Google Analytics, W3C WCAG Standards
