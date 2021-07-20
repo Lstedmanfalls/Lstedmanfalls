@@ -10,24 +10,24 @@ My LinkedIn: https://www.linkedin.com/in/lstedmanfalls/
 > Languages
     HTML, CSS, JavaScript, Python, SQL
 
-> Database Systems
+> Web Solutions
+    WordPress, Drupal, WooCommerce, Elementor, LearnDash, Yoast SEO, Google Analytics, W3C WCAG Standards
+
+> Database
     MySQL
 
 > Libraries / Frameworks
     Bootstrap, jQuery, Django
-    
-> Web Development Solutions
-    WordPress, Drupal, WooCommerce, Elementor, LearnDash, Yoast SEO, Google Analytics, W3C WCAG Standards
 
-> Developer Environments / Terminals
+> Terminals / Environments
     cmd, GitBash, node.js, venv
 
-> Workflow Solutions
+> Workflow
     MS 365, Google Workspace, MailChimp
 
 > Version Control
     Git / GitHub
 
-> Audio / Visual Tools
-    DaVinci Resolve, Pro Tools
+> Audio / Visual
+    DaVinci Resolve, iMovie, Pro Tools
 </pre>
