@@ -8,7 +8,7 @@ My LinkedIn: https://www.linkedin.com/in/lstedmanfalls/
 
 <pre>
 > Languages
-    HTML, CSS, JavaScript, Python, SQL
+   Python, SQL, JavaScript, CSS, HTML
 
 > Web Solutions
     WordPress, Drupal, WooCommerce, Elementor, LearnDash, Yoast SEO, Google Analytics, W3C WCAG Standards
@@ -17,7 +17,7 @@ My LinkedIn: https://www.linkedin.com/in/lstedmanfalls/
     MySQL
 
 > Libraries / Frameworks
-    Bootstrap, jQuery, Django
+    Django, jQuery, Bootstrap
 
 > Terminals / Environments
     cmd, GitBash, node.js, venv
@@ -26,7 +26,7 @@ My LinkedIn: https://www.linkedin.com/in/lstedmanfalls/
     MS 365, Google Workspace, MailChimp
 
 > Version Control
-    Git / GitHub
+    Git, GitHub
 
 > Audio / Visual
     DaVinci Resolve, iMovie, Pro Tools
