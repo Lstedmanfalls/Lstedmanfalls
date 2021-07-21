@@ -13,7 +13,7 @@ My LinkedIn: https://www.linkedin.com/in/lstedmanfalls/
 > Web Solutions
     WordPress, Drupal, WooCommerce, Elementor, LearnDash, Yoast SEO, Google Analytics, W3C WCAG Standards
 
-> Database
+> Database Systems
     MySQL
 
 > Libraries / Frameworks
