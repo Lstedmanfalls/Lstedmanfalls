@@ -14,7 +14,7 @@ My LinkedIn: https://www.linkedin.com/in/lstedmanfalls/
     WordPress, Drupal, WooCommerce, Elementor, LearnDash, Yoast SEO, Google Analytics, W3C WCAG Standards
 
 > Database Systems
-    MySQL
+    MySQL, SQLite
 
 > Libraries / Frameworks
     Django, jQuery, Bootstrap
