@@ -1,4 +1,4 @@
-<p>👋 Hello, I’m Lisa M. Stedman-Falls.</p>
+<p>👋 Hello, I’m Lisa Stedman-Falls.</p>
 <p> I am a full stack developer, passionate about using technology to bring value to the world through increased effectiveness and efficiency. My areas of greatest strength are in Python, SQL, and CSS.</p>
 <p> Over the past 10 years, I have led a career as a behavioral scientist, practitioner, organizational leader, and consultant. My main areas of specialization have been in technology-based behavioral assessment, treatment, and staff training (through robotic simulated clients, eHealth apps and devices, web-based platforms, and telehealth). I have published four research studies, primarily exploring the use of technology to advance Applied Behavior Analysis.</p>
 
