@@ -16,7 +16,7 @@ My LinkedIn: https://www.linkedin.com/in/lstedmanfalls/
 > Database Systems
     MySQL, SQLite
     
-> Packaged Web Solutions
+> Web Solutions
     WordPress, Drupal, WooCommerce, Elementor, LearnDash, Yoast SEO, Google Analytics, W3C WCAG Standards
 
 > Workflow Solutions
