@@ -1,5 +1,5 @@
 <p>👋 Hello, I’m Lisa Stedman-Falls.</p>
-<p> I am a full stack developer, passionate about using technology to bring value to the world through increased effectiveness and efficiency. My areas of greatest strength are in Python, SQL, and CSS.</p>
+<p> I am a full stack developer, passionate about using technology to bring value to the world through increased effectiveness and efficiency. My areas of greatest strength are in Python (particularly using Django), SQL, and CSS.</p>
 <p> Prior to transitioning to software development, I led a successful career as a Ph.D.-level behavioral scientist, practitioner, organizational leader, and consultant. My main areas of specialization have been in technology-based behavioral assessment, treatment, and staff training (through robotic simulated clients, eHealth apps and devices, web-based platforms, and telehealth). I have published four research studies, primarily exploring the use of technology to advance Applied Behavior Analysis.</p>
 
 <p> I have always loved technology, and I’m stoked to be on the other side of it now. I look forward to exploring new opportunities within the technology sector, and continuing to learn and grow.</p>
