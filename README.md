@@ -19,7 +19,8 @@ My LinkedIn: https://www.linkedin.com/in/lstedmanfalls/
    MySQL, SQLite
     
 > Web Solutions
-   WordPress, WooCommerce, W3C Web Content Accessibility Guidelines (WCAG), Learning Management Systems (LMS), Amazon Web Services
+   WordPress, WooCommerce, W3C Web Content Accessibility Guidelines (WCAG), Learning Management Systems (LMS), 
+   Amazon Web Services
 
 > Workflow Solutions
    MS 365, Google Workspace, MailChimp
