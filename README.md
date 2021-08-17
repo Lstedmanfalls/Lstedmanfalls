@@ -1,5 +1,5 @@
 <p>👋 Hello, I’m Lisa Stedman-Falls.</p>
-<p> I am a Ph.D.-level behavioral scientist, turned full stack software developer 🤓</p>
+<p> I am a behavioral scientist, turned full stack software developer 🤓</p>
 
 <p>My areas of greatest strength are in Python/Django, learning/training, research, and data analysis.</p>
 <p> Prior to transitioning to software development, I led a successful career as a Ph.D.-level behavioral scientist, specializing in technology-based behavioral assessment, treatment, and staff training. I've co-published 4 studies, including the use of humanoid robots, eHealth apps, wireless monitoring devices, and other technologies, to help advance behavioral science and practice.</p>
