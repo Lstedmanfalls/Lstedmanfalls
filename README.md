@@ -4,7 +4,7 @@
 <p>My areas of greatest strength are in Python, Django, responsive web development, web and media accessibility, learning and training, research, and data analysis.</p>
 <p> Prior to transitioning to software development, I specialized in technology-based behavioral assessment, treatment, and staff training. I've co-published 4 studies, including the use of humanoid robots, eHealth apps, wireless monitoring devices, and other technologies, to help advance behavioral science and practice.</p>
 
-<p>I've always loved working with tech, and I’m stoked to be on the other side of it now!</p>
+<p>Currently I'm learning MERN (mongo, express, react, node).</p>
 
 My LinkedIn: https://www.linkedin.com/in/lstedmanfalls/
 
