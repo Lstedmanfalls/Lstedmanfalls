@@ -7,7 +7,7 @@ My LinkedIn: https://www.linkedin.com/in/lstedmanfalls/
 
 <pre>
 > Languages
-   Python, JavaScript, SQL, CSS, HTML
+   Python, JavaScript, SQL, CSS, HTML, ZPL (Zebra Progamming Language for labels)
 
 > Libraries / Frameworks
    FastAPI, Flask, Django, Pandas, React, jQuery, Bootstrap
