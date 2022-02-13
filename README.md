@@ -16,11 +16,11 @@ My LinkedIn: https://www.linkedin.com/in/lstedmanfalls/
    AWS Aurora RDS, PostgresSQL MySQL, SQLAlchemy, Alembic
     
 > Web Solutions
-   Responsive Web Design, WordPress, WooCommerce, W3C Web Content Accessibility Guidelines (WCAG), 
-   Learning Management Systems (LMS), Amazon Web Services
+   Amazon Web Services, WordPress, WooCommerce, Responsive Web Design, W3C Web Content Accessibility Guidelines (WCAG), 
+   Learning Management Systems (LMS), MailChimp, Google Analytics
 
 > Workflow Solutions
-   JIRA, CircleCI, MS 365, Google Workspace, MailChimp
+   JIRA, CircleCI, MS 365, Google Workspace, 
     
 > Version Control
    Git, GitHub
