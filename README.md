@@ -1,10 +1,7 @@
 <p>👋 Hello, I’m Lisa Stedman-Falls.</p>
-<p> I am a full-stack software developer and former behavioral scientist 🤓</p>
+<p> I am a back-end software engineer and former behavioral scientist 🤓</p>
 
-<p>My areas of greatest strength are in Python, Django, responsive web development, web and media accessibility, learning and training, research, and data analysis.</p>
-<p> Prior to transitioning to software development, I specialized in technology-based behavioral assessment, treatment, and staff training. I've co-published 4 studies, including the use of humanoid robots, eHealth apps, wireless monitoring devices, and other technologies, to help advance behavioral science and practice.</p>
-
-<p>Currently I'm learning MERN (mongo, express, react, node).</p>
+<p>My areas of greatest strength are in python (FastAPI, Django, Flask) and database / data management.</p>
 
 My LinkedIn: https://www.linkedin.com/in/lstedmanfalls/
 
@@ -13,10 +10,10 @@ My LinkedIn: https://www.linkedin.com/in/lstedmanfalls/
    Python, JavaScript, SQL, CSS, HTML
 
 > Libraries / Frameworks
-   Django, jQuery, Bootstrap
+   FastAPI, Flask, Django, Pandas, React, jQuery, Bootstrap
     
-> Database Systems
-   MySQL, SQLite
+> Database / Data Management
+   AWS Aurora RDS, PostgresSQL MySQL, SQLAlchemy, Alembic
     
 > Web Solutions
    Responsive Web Design, WordPress, WooCommerce, W3C Web Content Accessibility Guidelines (WCAG), 
@@ -29,11 +26,11 @@ My LinkedIn: https://www.linkedin.com/in/lstedmanfalls/
    Git, GitHub
 
 > Terminals / Environments
-   cmd, GitBash, node.js, venv
+   cmd, GitBash, node.js
 
 > Audio / Visual
    DaVinci Resolve, iMovie, Pro Tools
 
 > Favorite Tech Areas
-   Robotics, Machine Learning, Web Development, devOps
+   Robotics, devOps, python, WordPress Web Development
 </pre>
