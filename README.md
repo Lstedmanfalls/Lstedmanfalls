@@ -1,7 +1,7 @@
 <p>👋 Hello, I’m Lisa Stedman-Falls.</p>
 <p> I am a back-end software engineer and former behavioral scientist 🤓</p>
 
-<p>My areas of greatest strength are in python (FastAPI, Django, Flask) and database / data management.</p>
+<p>My areas of greatest strength are in python and database / data management.</p>
 
 My LinkedIn: https://www.linkedin.com/in/lstedmanfalls/
 
