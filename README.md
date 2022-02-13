@@ -20,7 +20,7 @@ My LinkedIn: https://www.linkedin.com/in/lstedmanfalls/
    Learning Management Systems (LMS), Amazon Web Services
 
 > Workflow Solutions
-   MS 365, Google Workspace, MailChimp
+   JIRA, CircleCI, MS 365, Google Workspace, MailChimp
     
 > Version Control
    Git, GitHub
