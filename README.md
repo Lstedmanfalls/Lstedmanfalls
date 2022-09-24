@@ -1,36 +1,8 @@
 <p>👋 Hello, I’m Lisa Stedman-Falls.</p>
 <p> I am a back-end software engineer and former behavioral scientist 🤓</p>
 
-<p>My areas of greatest strength are in python and database / data management.</p>
+<p>My areas of greatest strength are in python, ETL, APIs, SQL database design / management, AWS cloud / serverless infrastructure and services, and CI/CD workflow / pipeline configuration. I also freelance as a web developer through my company, Vita Elevant - helping business clients build, maintain, and optimize their commercial WordPress websites. 
+
+I previously led a successful 10+ year career as a Ph.D.-level behavioral scientist, clinician, and leader, serving as an expert in technology-based health behavior assessment, treatment, and provider training</p>
 
 My LinkedIn: https://www.linkedin.com/in/lstedmanfalls/
-
-<pre>
-> Languages
-   Python, JavaScript, SQL, CSS, HTML, ZPL (Zebra Progamming Language for labels)
-
-> Libraries / Frameworks
-   FastAPI, Flask, Django, Pandas, React, jQuery, Bootstrap
-    
-> Database / Data Management
-   AWS Aurora RDS, PostgresSQL MySQL, SQLAlchemy, Alembic
-    
-> Web Solutions
-   Amazon Web Services, WordPress, WooCommerce, Responsive Web Design, W3C Web Content Accessibility Guidelines (WCAG), 
-   Learning Management Systems (LMS), MailChimp, Google Analytics
-
-> Workflow Solutions
-   JIRA, CircleCI, MS 365, Google Workspace
-    
-> Version Control
-   Git, GitHub
-
-> Terminals / Environments
-   cmd, GitBash, node.js
-
-> Audio / Visual
-   DaVinci Resolve, iMovie, Pro Tools
-
-> Favorite Tech Areas
-   Robotics, devOps, python, WordPress Web Development
-</pre>
