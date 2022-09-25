@@ -1,5 +1,4 @@
-<p>👋 Hello, I’m Lisa Stedman-Falls.</p>
-<p> I am a back-end software engineer 🤓</p>
+<p>👋 Hello, I’m Lisa Stedman-Falls. I am a back-end software engineer 🤓</p>
 
 <p>My areas of greatest strength are in python, ETL, APIs, SQL database design / management, AWS cloud / serverless infrastructure and services, and CI/CD workflow / pipeline configuration.</p> 
 
