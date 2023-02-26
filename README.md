@@ -4,4 +4,4 @@
 
 <p> This is my personal GitHub, which spans my very first software projects as well as miscellaneous musings and practice code.
 
-You can find more infomation about my skills and experience on LinkedIn: https://www.linkedin.com/in/lstedmanfalls/
+You can find more infomation about my skills and experience on my LinkedIn: https://www.linkedin.com/in/lstedmanfalls/
