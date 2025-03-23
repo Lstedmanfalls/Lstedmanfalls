@@ -1,5 +1,5 @@
-<p>👋 Hi there. 
+Hi👋 I'm Lisa, a Platform, Infrastructure, and Software Engineer.
 
-I am a software engineer with niches in platform and infrastructure engineering, experienced in building high-performant, fast-scaling, external and internal software and AWS cloud infrastructure: REST APIs, ETL pipelines, CI/CD workflows, databases, monitoring and alerting, automated testing, container orchestration, etc. </p>
+I help build production-quality internal tools and automated systems, frictionless and robust CI/CD pipelines, scalable and reliable cloud infrastructure, and intuitive self-service platforms. 
 
-<p> This is my personal GitHub full of random things.
+This is my personal Github account that I mainly use for getting familiar with new stacks.
